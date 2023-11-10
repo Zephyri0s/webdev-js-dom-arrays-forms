@@ -53,7 +53,8 @@ nav ul li a {
   padding: 8px 0;
 }
 .currentPage {
-  background-color: #f9d3b4;
+  background-color: #1df500;
+  font-style: italic;
 }
 .currentPage a {
   color: #000;
